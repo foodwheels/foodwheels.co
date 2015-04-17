@@ -1,2 +1,2 @@
-# foodwheels.github.io
+# foodwheels.co
 Foodwheels official site.
