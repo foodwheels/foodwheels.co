@@ -1,0 +1,8 @@
+# Ignore caches and logs
+.sass-cache
+
+# Ignore junk files
+.DS_Store
+
+# Ignore devDependecies
+node_modules
