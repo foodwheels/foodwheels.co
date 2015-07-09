@@ -1,0 +1,22 @@
+/*-----------------------------------*\
+
+  $BUTTONS
+
+\*-----------------------------------*/
+.btn {
+  height: 3.250em;
+  margin: 0.7222rem;
+  margin-top: 0;
+  padding: .875rem 1.2222rem;
+  border-radius: .25em;
+  background-color: #84D1B1;
+  -webkit-transition: 0.1s ease-in-out;}
+  .btn:hover {
+    background-color: #88DDC0;
+    -webkit-transition: 0.2s ease-in-out; }
+
+.inactive {
+  display: inline-block;
+  padding: 0.7222rem 1.4444rem;
+  border-radius: 0.188em 1.375em;
+  background-color: rgba(255, 255, 255, .14); }

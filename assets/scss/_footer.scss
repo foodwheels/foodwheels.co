@@ -1,0 +1,22 @@
+/*-----------------------------------*\
+
+  $FOOTER
+
+\*-----------------------------------*/
+.site__footer {
+  background-color: #E9EDEC;
+  height: auto; 
+  margin-bottom: 0; }
+
+.site__footer ul {
+  margin: 0 auto; }
+  @media (max-width: 700px) {
+    .site__footer li {
+      margin-bottom: 0.889rem; } }
+
+.site__footer a{
+  transition: .3s all ease; }
+
+.site__footer a:hover{
+  padding-bottom: 0.222rem;
+  border-bottom: solid #D6DBDA 0.167em; }
