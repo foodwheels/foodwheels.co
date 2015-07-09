@@ -44,19 +44,19 @@
   margin-bottom: 1.889rem; }
 
 section.child {
-  margin-top: 16em; }
+  margin-top: 14rem; }
   @media (max-width: 700px) {
-    .child {
-      margin-top: 2rem; } }
+    section.child {
+      margin-top: 2em; } }
 
 section.parent {
-  margin-top: 5em; }
+  margin-top: 3rem; }
   @media (max-width: 700px) {
-    .parent {
-      margin-top: 3rem; } }
+    section.parent {
+      margin-top: 3em; } }
 
 .email {
-  margin-bottom: 1rem; }
+  margin-bottom: .667rem; }
   @media (max-width: 700px) {
     .email {
       margin-left: 1.667rem; } }
